@@ -59,9 +59,3 @@ Target:`Churn` (Yes/No)
 
 Logistic Regression performed best and effectively identifies high-risk customers, enabling proactive retention strategies.
 
-
----
-
-## 👩‍💻 Author
-
-**Mahathi**
